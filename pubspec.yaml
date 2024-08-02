@@ -1,0 +1,44 @@
+name: food_checkout_app
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/nasi_goreng.jpeg
+    - assets/images/mie_ayam.jpeg
+    - assets/images/bakso.jpeg
+    - assets/images/sate.jpeg
+    - assets/images/soto.jpeg
+    - assets/images/teh_manis.jpeg
+    - assets/images/kopi.jpeg
+    - assets/images/jus_jeruk.jpeg
+    - assets/images/susu.jpeg
+    - assets/images/air_mineral.jpeg
+    - assets/images/keripik.jpeg
+    - assets/images/kacang.jpeg
+    - assets/images/permen.jpeg
+    - assets/images/coklat.jpeg
+    - assets/images/biskuit.jpeg
+    - assets/images/user_profile1.jpg
+    - assets/images/user_profile2.jpg
+    - assets/images/user_profile3.jpg
+    - assets/images/logo.png
+    - assets/images/login.png
+    - assets/images/about_us.png
