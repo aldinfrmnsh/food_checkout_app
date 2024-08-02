@@ -13,7 +13,7 @@ Warbuy is a vibrant and user-friendly e-commerce application developed with Flut
 
 ## Screenshots
 
-<img src="screenshots/a.jpg" width="200"/> <img src="screenshots/b.jpg" width="200"/> <img src="screenshots/c.jpg"/> 
+<img src="screenshots/a.jpg" width="200"/> <img src="screenshots/b.jpg" width="200"/> <img src="screenshots/c.jpg" width="200"/> 
 
 ## Getting Started
 
