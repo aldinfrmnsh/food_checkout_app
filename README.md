@@ -1,16 +1,29 @@
-# food_checkot_app
+# Warbuy
 
-A new Flutter project.
+Warbuy is a vibrant and user-friendly e-commerce application developed with Flutter, designed to offer a seamless shopping experience for a variety of food items including meals, drinks, and snacks.
+
+## Features
+
+- **User Authentication:** Simple login functionality with validation.
+- **Product Categories:** Browse through different categories such as Makanan, Minuman, and Cemilan.
+- **Cart Management:** Add items to your cart, view your cart, and confirm orders.
+- **Order History:** Track past orders.
+- **User Profile:** View user profile information.
+- **About Us:** Information about the Warbuy application.
+
+## Screenshots
+
+<img src="screenshots/a.jpg" width="200"/> <img src="screenshots/b.jpg" width="200"/> <img src="screenshots/c.jpg"/> 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK
+- A code editor (like VS Code or Android Studio)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/warbuy.git
