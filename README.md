@@ -26,4 +26,4 @@ Warbuy is a vibrant and user-friendly e-commerce application developed with Flut
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/warbuy.git
+   git clone https://github.com/aldinfirmansah/warbuy.git
